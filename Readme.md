@@ -1,6 +1,6 @@
 # AluraBook
 
-## Primeiro módulo
+## Primeiro módulo 
 
 - [✔️] Carregando o projeto base
 - [✔️] Fetch de livros no console
@@ -9,9 +9,8 @@
 
 ## Segundo módulo
 
-- []
-- []
-
+- [] Como funciona o map
+- [] Desconto com map
 ## Terceiro módulo
 
 - []
