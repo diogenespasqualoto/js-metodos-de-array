@@ -13,6 +13,7 @@
 - [✔️] Desconto com map
 ## Terceiro módulo
 
-- []
-- []
-- []
+- [] Filter 
+- [] Como funciona o filter 
+- [] Filter de livros
+- [] Livros filtrados na tela 
