@@ -9,7 +9,7 @@
 
 ## Segundo módulo
 
-- [] Como funciona o map
+- [✔️] Como funciona o map
 - [] Desconto com map
 ## Terceiro módulo
 
