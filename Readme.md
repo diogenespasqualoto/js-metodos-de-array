@@ -16,5 +16,5 @@
 
 - [✔️] Filter 
 - [✔️] Como funciona o filter 
-- [] Filter de livros
+- [✔️] Filter de livros
 - [] Livros filtrados na tela 
