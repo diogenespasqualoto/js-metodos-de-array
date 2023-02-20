@@ -15,6 +15,6 @@
 ## Terceiro módulo
 
 - [✔️] Filter 
-- [] Como funciona o filter 
+- [✔️] Como funciona o filter 
 - [] Filter de livros
 - [] Livros filtrados na tela 
