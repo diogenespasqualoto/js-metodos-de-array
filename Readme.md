@@ -18,3 +18,11 @@
 - [✔️] Como funciona o filter
 - [✔️] Filter de livros
 - [✔️] Livros filtrados na tela
+
+## Quarto módulo
+
+- [] Como funciona o sort
+- [] Sort de livros
+- [] livros indisponíveis
+- [] Filtrando livros disponíveis
+    
