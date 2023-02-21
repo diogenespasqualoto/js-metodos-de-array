@@ -1,6 +1,6 @@
 # AluraBook
 
-## Primeiro módulo 
+## Primeiro módulo
 
 - [✔️] Carregando o projeto base
 - [✔️] Fetch de livros no console
@@ -14,7 +14,7 @@
 
 ## Terceiro módulo
 
-- [✔️] Filter 
-- [✔️] Como funciona o filter 
+- [✔️] Filter
+- [✔️] Como funciona o filter
 - [✔️] Filter de livros
-- [✔️] Livros filtrados na tela 
+- [✔️] Livros filtrados na tela
