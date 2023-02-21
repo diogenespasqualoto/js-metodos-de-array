@@ -22,7 +22,7 @@
 ## Quarto módulo
 
 - [✔️] Como funciona o sort
-- [] Sort de livros
+- [✔️] Sort de livros
 - [] livros indisponíveis
 - [] Filtrando livros disponíveis
     
