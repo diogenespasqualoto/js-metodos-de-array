@@ -29,5 +29,5 @@
 ## Quinto módulo
 
 - [✔️] Manipulando HTML com JS
-- [] Como funciona o reduce
+- [✔️] Como funciona o reduce
 - [] Valor total com reduce
