@@ -25,3 +25,9 @@
 - [✔️] Sort de livros
 - [✔️] livros indisponíveis
 - [✔️] Filtrando livros disponíveis
+
+## Quinto módulo
+
+- [] Manipulando HTML com JS
+- [] Como funciona o reduce
+- [] Valor total com reduce
