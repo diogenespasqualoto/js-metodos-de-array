@@ -30,4 +30,4 @@
 
 - [✔️] Manipulando HTML com JS
 - [✔️] Como funciona o reduce
-- [] Valor total com reduce
+- [✔️] Valor total com reduce
