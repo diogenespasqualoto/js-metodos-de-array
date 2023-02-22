@@ -24,5 +24,4 @@
 - [✔️] Como funciona o sort
 - [✔️] Sort de livros
 - [✔️] livros indisponíveis
-- [] Filtrando livros disponíveis
-    
+- [✔️] Filtrando livros disponíveis
